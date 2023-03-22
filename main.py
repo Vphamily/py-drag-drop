@@ -19,7 +19,8 @@ def upload():
             # Do something with the dataframe here
              # Convert to HTML and return as response
             data =  df.to_html(classes = 'data', header="true")
-    return render_template('detail.html', data = data)
+            session['data'] = data 
+    return render_template('detail.html', data = session['data'])
     
 
 # redirect route

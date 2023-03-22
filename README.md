@@ -9,7 +9,7 @@ note that there will be add feature on to the future program to allow user uploa
 
 2. go into the project directory 
 
-3. install the virtual enviroments into your python project
+3. install the virtual enviroments into your python project and actiavte your venv
 
 4. Do this command (this command is use to install the packages necessary into your virtual env to run this program)
 ````
