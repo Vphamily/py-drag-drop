@@ -15,8 +15,8 @@ def upload():
     if request.method == 'POST':
         f = request.files.get('file')
         if f:
+            # use pandas to read put the csv to the dataframe
             df = pd.read_csv(f)
-            # Do something with the dataframe here
              # Convert to HTML and return as response
             data =  df.to_html(classes = 'data', header="true")
             session['data'] = data 
