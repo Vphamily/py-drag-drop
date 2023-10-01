@@ -28,8 +28,7 @@ python main.py
 - [x] drag and drop file
 - [x] validation make sure to only take csv files
 - [x] display csv file
-- [ ] save the data to the database
-- [ ] use pandas to do some sort of calculation and send it back to db
+      
 ## **packages use include:** ( note: if there any other package need then i will modiify this)
 * flask
 * pandas
