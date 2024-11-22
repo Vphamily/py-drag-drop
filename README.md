@@ -9,8 +9,7 @@
 ![image](https://user-images.githubusercontent.com/86323153/226808096-4ce26bbb-6933-4c5b-80b7-6ee90f30ba85.png)
 **image3:**
 ![image](https://user-images.githubusercontent.com/86323153/226808148-c341c2b6-2c93-4ad0-9495-aade01e4fc56.png)
-**image4:**
-![image](https://user-images.githubusercontent.com/86323153/226808231-803dcb76-4f9b-446e-8fd5-b3440d5eb64c.png)
+
 
 
 This project is a Flask-based web application designed to process and visualize .csv files interactively. Users can upload datasets, explore data summaries, and generate visualizations without needing technical expertise.
