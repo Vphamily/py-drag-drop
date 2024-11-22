@@ -18,14 +18,14 @@ This project is a web application designed to process and visualize .csv files i
 
 Here's why:
 * Efficiency:
-      * The application processes uploaded .csv files instantly, converting them into structured DataFrames for analysis. This ensures rapid feedback for users without              delays.
-      * By leveraging Pandas and Plotly, the app quickly generates statistical summaries and visualizations, saving users time compared to manual data exploration.
-      * Data is stored in the session during the user’s interaction, minimizing redundant processing and enhancing performance.
+  1. The application processes uploaded .csv files instantly, converting them into structured DataFrames for analysis. This ensures rapid feedback for users without              delays.
+  2. By leveraging Pandas and Plotly, the app quickly generates statistical summaries and visualizations, saving users time compared to manual data exploration.
+  3. Data is stored in the session during the user’s interaction, minimizing redundant processing and enhancing performance.
   
 * Accessibility: Easy-to-use interface ensures that users can efficiently manage and review transactions.
-      * With clear navigation between data upload, preview, and visualization pages, the app is intuitive for users of all skill levels.
-      * Users don’t need programming expertise to upload datasets, view summaries, or create visualizations.
-      * Being a web application, it requires no installation. Users can simply run the server locally or deploy it online for use from any browser.
+  1. With clear navigation between data upload, preview, and visualization pages, the app is intuitive for users of all skill levels.
+  2. Users don’t need programming expertise to upload datasets, view summaries, or create visualizations.
+  3. Being a web application, it requires no installation. Users can simply run the server locally or deploy it online for use from any browser.
 
 ### Built With
 
