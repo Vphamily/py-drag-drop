@@ -12,7 +12,7 @@
 
 
 
-This project is a Flask-based web application designed to process and visualize .csv files interactively. Users can upload datasets, explore data summaries, and generate visualizations without needing technical expertise.
+This project is a web application designed to process and visualize .csv files interactively. Users can upload datasets, explore data summaries, and generate visualizations without needing technical expertise.
 
 
 
