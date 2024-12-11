@@ -1,4 +1,4 @@
-# ** Data anlysis tool **
+# ** DataLens **
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
